@@ -1,17 +1,15 @@
 public class SumTwoNumbers {
- // The main method is the entry point of the Java program.
+ //main method of the program
     public static void main(String[] args) {
+        // declare variables and assign values
+        int x = 5; 
+        int y = 7; 
+        int sum;
 
-        // Declare the two variables and assign values to them.
-        int x = 5; // First number to be added.
-        int y = 7; // Second number to be added.
+        // calculate the sum
+        sum = x + y;
 
-        // Calculate the sum of x and y and store it in a new variable.
-        int sum = x + y; // 'sum' holds the result of adding x and y.
-
-        // Print the result to the console.
-        System.out.println("The sum of " + x + " and " + y + " is: " + sum);
-
-        // The program ends here.
+        // print the result
+        System.out.println("The sum of two numbers: " + sum); 
     }
 }
