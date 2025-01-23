@@ -1,10 +1,8 @@
-// This is a simple Java program to add two numbers and display the result.
 public class SumTwoNumbers {
-
-    // The main method is the entry point of the Java program.
+ // The main method is the entry point of the Java program.
     public static void main(String[] args) {
 
-        // Declare two integer variables and assign values to them.
+        // Declare the two variables and assign values to them.
         int x = 5; // First number to be added.
         int y = 7; // Second number to be added.
 
