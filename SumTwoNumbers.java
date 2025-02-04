@@ -1,5 +1,4 @@
 public class SumTwoNumbers {
- //main method of the program
     public static void main(String[] args) {
         // declare variables and assign values
         int x = 5; 
