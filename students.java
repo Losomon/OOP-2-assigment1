@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//solomon mwangi ct101/g/20741/23
 class Student {
     private String name;
     private int age;
