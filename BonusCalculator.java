@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//solomon mwangi
+// adm No.ct101/g/20741/23
 public class BonusCalculator {
     /**
      * @param args
