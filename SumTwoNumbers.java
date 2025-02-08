@@ -1,3 +1,4 @@
+/*solomon mwangi ct101/g/20741/23*/
 public class SumTwoNumbers {
     public static void main(String[] args) {
         // declare variables and assign values
