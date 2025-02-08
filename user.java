@@ -1,5 +1,5 @@
 import java.util.Scanner; // Import Scanner class
-
+//solomon  mwangi ct101/g/20741/23
 class Main{ // Class name should start with uppercase (Java convention)
 
     // Method to calculate discount
