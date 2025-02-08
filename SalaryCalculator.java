@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//solomon mwangi ct101/g/20741/23
 public class SalaryCalculator {
         public static void main(String[] args) {
         // Get user input for years of service
