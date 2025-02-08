@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// solomon mwangi ct101/g/20741/23
 class Employee {
     private String name;
     private double salary;
